@@ -1,1 +1,39 @@
--EDIT THIS-
+{
+  "project_info": {
+    "project_number": "290916749611",
+    "project_id": "chat-bb54e",
+    "storage_bucket": "chat-bb54e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290916749611:android:9514f8fd5603d36541f56e",
+        "android_client_info": {
+          "package_name": "com.fredrikbogg.android_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290916749611-0gumoikm7u6sfkbmoi8skcmgk9vge20t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU6cmEHSECQjBF9L2gLkbFz82zf8Qg1Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290916749611-0gumoikm7u6sfkbmoi8skcmgk9vge20t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
